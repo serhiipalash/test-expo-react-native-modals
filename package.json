@@ -12,7 +12,7 @@
     "react": "~16.9.0",
     "react-dom": "~16.9.0",
     "react-native": "https://github.com/expo/react-native/archive/sdk-36.0.0.tar.gz",
-    "react-native-modals": "https://github.com/jacklam718/react-native-modals",
+    "react-native-modals": "^0.19.9",
     "react-native-web": "~0.11.7"
   },
   "devDependencies": {
